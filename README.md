@@ -30,5 +30,5 @@ In this project,I create and run an instance on AWS, configure Jenkins, and crea
 
 *  A Jenkinsfile exists, that has the stages and steps defined that match how the pipeline looks in the Jenkins dashboard. For example ‘stage(‘Lint HTML’)’ should show as ‘Lint HTML’ in the pipeline. The AWS credentials and bucket name should all map to an existing S3 bucket that is publicly accessible and that it displays the contents of the index.html file.
 
-![alt text](https://github.com/shimaa829/Jenkins-Pipeline-on-AWS/blob/master/screenshots/screenshot-08.png)
+![alt text](https://github.com/shimaa829/Jenkins-Pipeline-on-AWS/blob/master/screenshots/screenshot-07.png)
 
